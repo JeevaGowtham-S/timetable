@@ -19,5 +19,7 @@ from timetable import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',views.timetable,name='timetable')
+    path('',views.timetable,name='timetable'),
+    path("web/",views.web)
+    path('responsive/',views.responsive)
 ]

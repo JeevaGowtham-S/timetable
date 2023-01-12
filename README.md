@@ -88,4 +88,4 @@ Execute the program
 ```
 
 # OUPUT:
-![output](/static/images/tt.png)
+![output](mytimetable/static/images/tt.png)
