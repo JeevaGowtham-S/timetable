@@ -89,3 +89,6 @@ Execute the program
 
 # OUPUT:
 ![output](mytimetable/static/images/tt.png)
+
+# Result:
+thus a timetable is created in the webserver.
